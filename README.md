@@ -8,7 +8,7 @@ las directivas:
 - v-show o v-if
 - v-for
 
-En donde los inputs un formulario deberán modificar los estilos de una figura de forma dinámica.
+En donde los inputs en  un formulario deberán modificar los estilos de una figura de forma dinámica.
 
 ### Tecnologías utilizadas
 
